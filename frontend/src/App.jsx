@@ -45,7 +45,7 @@ export default function App() {
 
   return (
     <div style={{ maxWidth: 700, margin: '30px auto', fontFamily: 'sans-serif' }}>
-      <h1>My Blog</h1>
+      <h1>My Blog v2</h1>
 
       <form onSubmit={onSubmit} style={{ display: 'grid', gap: 8, marginBottom: 30 }}>
         <input
